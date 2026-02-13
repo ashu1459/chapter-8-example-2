@@ -20,7 +20,6 @@ const PORT = process.env.PORT;
 //
 app.get("/live", (req, res) => {
     res.sendStatus(200);
-    
 });
 
 //
